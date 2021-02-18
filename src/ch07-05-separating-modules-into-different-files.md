@@ -7,7 +7,7 @@ separate Datei verschieben, um die Navigation im Code zu erleichtern.
 Beginnen wir beispielsweise mit dem Code in Codeblock 7-17 und verschieben das
 Modul `front_of_house` in seine eigene Datei *src/front_of_house.rs*, indem wir
 die Kistenwurzeldatei so ändern, dass sie den in Codeblock 7-21 gezeigten Code
-enthält. In diesem Fall ist die Kistenwurzeldatei *src/lib.rs*, aber dieses
+enthält. In diesem Fall ist die Kistenwurzeldatei *src/lib.rs*, aber diese
 Vorgehensweise funktioniert auch mit binären Kisten, deren Kistenwurzeldatei
 *src/main.rs* ist.
 
